@@ -1,6 +1,6 @@
 # smart_cart_app
 
-A new Flutter project.
+A family app for purchasing carts
 
 ## Getting Started
 
